@@ -1,0 +1,2 @@
+.mod_article { min-height: var(--article_min_height, none); }
+.mod_article.has_inside > .inside.article_inside { width: var(--article_inside_width); max-width: 100%; margin-left: auto; margin-right: auto; }

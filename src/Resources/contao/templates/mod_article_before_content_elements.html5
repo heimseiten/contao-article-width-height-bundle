@@ -1,0 +1,7 @@
+<?php
+  
+  if ( $this->articleMaxWidth) {
+    echo '<div class="inside article_inside" style="' . '--article_inside_width:' . $this->articleMaxWidth . ';">';    
+  }
+
+?>

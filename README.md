@@ -1,1 +1,1 @@
-#Artikelbreite/-höhe
+# Artikelbreite/-höhe

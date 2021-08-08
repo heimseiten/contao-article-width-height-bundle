@@ -1,1 +1,1 @@
-# Welcome to Artikelbreite/-höhe
+#Artikelbreite/-höhe

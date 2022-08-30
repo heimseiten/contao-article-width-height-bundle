@@ -1,8 +1,10 @@
 .mod_article { 
     min-height: var(--article_min_height, none); 
-    &.has_img .article_bg img { 
-        width: var(--article_inside_width); 
-        margin: auto;
+    &.has_img .article_bg { 
+        & > .inside {
+            width: var(--article_inside_width);
+            margin: auto;
+        }
     }
 }
 .mod_article > * { 

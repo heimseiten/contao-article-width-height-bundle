@@ -1,5 +1,5 @@
 .mod_article { 
-    min-height: var(--article_min_height, none); 
+    min-height: var(--element_height, var(--article_min_height, none) );
     &.has_img .article_bg { 
         & > .inside {
             max-width: var(--article_inside_width);
